@@ -3,7 +3,8 @@
 
 ¡Bienvenido a mi repositorio de portafolio! Aquí encontrarás una muestra de algunas de las habilidades desarrolladas durante este año, plasmando en aqui mis habilidades en HTML, CSS y JavaScript. Estoy emocionado de compartir mi progreso y crecimiento en este emocionante viaje hacia la excelencia en el desarrollo web.
 
-![](img)
+![image](https://github.com/r3l4x1n/briefcase_r3l4x1n/assets/127248381/4d6a8e19-ee0a-4110-96be-358805635370)
+
 
 - **Tecnologías utilizadas:** HTML, CSS & JavaScript.
 - **Enlace:** [Ver Demo](link)
@@ -12,14 +13,14 @@
 
 El repositorio se organiza de la siguiente manera:
 
-- 📂 **img**: Carpeta del Proyecto 1
+- 📂 **img**: Carpeta imagenes
 - 📄 **index.html**: Página principal del portafolio con una breve presentación
 - 📄 **estilos.css**: Hoja de estilos global para el portafolio.
 - 📄 **script.js**: Archivo JavaScript global para interacciones comunes.
 
 ## Instalación y Uso
 
-1. Clona este repositorio: `---`
+1. Clona este repositorio: `https://github.com/r3l4x1n/briefcase_r3l4x1n.git`
 2. Navega la carpeta o el archivo del proyecto deseado: `img`, `index`,`estilos`, `script`
 3. Abre el archivo `index.html` en tu navegador para ver el proyecto.
 
