@@ -1,7 +1,7 @@
 
 # Portafolio Relaxadito
 
-¡Bienvenido a mi repositorio de portafolio! Aquí encontrarás una muestra de algunas de las habilidades desarrolladas durante este año, plasmando en aqui mis habilidades en HTML, CSS y JavaScript. Estoy emocionado de compartir mi progreso y crecimiento en este emocionante viaje hacia la excelencia en el desarrollo web.
+¡Bienvenido a mi repositorio de portafolio! Aquí encontrarás una muestra de algunas de las habilidades desarrolladas durante este año, en particular mis habilidades en HTML, CSS y JavaScript. Estoy emocionado de compartir mi progreso y crecimiento en este emocionante viaje hacia la excelencia en el desarrollo web.
 
 ![image](https://github.com/r3l4x1n/briefcase_r3l4x1n/assets/127248381/4d6a8e19-ee0a-4110-96be-358805635370)
 
