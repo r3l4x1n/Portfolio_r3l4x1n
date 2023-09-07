@@ -7,7 +7,7 @@
 
 
 - **Tecnologías utilizadas:** HTML, CSS & JavaScript.
-- **Enlace:** [Ver Demo]([https://r3l4x1n.github.io/briefcase_r3l4x1n/](https://r3l4x1n.github.io/Portfolio_r3l4x1n/))
+- **Enlace:** [Ver Demo](https://r3l4x1n.github.io/Portfolio_r3l4x1n/)
 
 ## Estructura del Repositorio
 
